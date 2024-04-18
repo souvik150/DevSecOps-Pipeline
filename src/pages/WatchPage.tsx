@@ -236,7 +236,7 @@ export function Component() {
                     textAlign="center"
                     sx={{ maxWidth: 300, mx: "auto", color: "white" }}
                   >
-                    Description
+                    This is the new updated Description
                   </MaxLineTypography>
                 </Box>
                 {/* end middle time */}
